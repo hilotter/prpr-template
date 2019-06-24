@@ -4,4 +4,5 @@
 * @a5ob7r: @aoisato
 * @yoshikawa0711: @吉川綾乃
 * @osakanabiyori/osakanabiyori2019: @武信 雄平
+* @YukiKoshi: @Yuki Koshi
 * @soutayamazaki: @楓
